@@ -46,3 +46,20 @@ arr.push(5)
 
 console.log(arr)
 
+const person = {
+    name: 'Brad',
+}
+
+person.name = 'John'
+
+person.email = 'brad@gmail.com'
+
+console.log(person)
+
+//Declare multiple values at once
+let a, b, c 
+
+const d = 10, e = 20, f = 30
+
+console.log(d)
+console.log(a)
